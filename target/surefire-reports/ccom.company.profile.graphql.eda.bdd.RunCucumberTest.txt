@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: ccom.company.profile.graphql.eda.bdd.RunCucumberTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.073 s -- in ccom.company.profile.graphql.eda.bdd.RunCucumberTest
