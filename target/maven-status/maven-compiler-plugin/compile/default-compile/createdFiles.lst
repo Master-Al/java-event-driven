@@ -1,0 +1,6 @@
+ccom/company/profile/graphql/eda/model/OrderView.class
+ccom/company/profile/graphql/eda/handler/OrderEventHandler.class
+ccom/company/profile/graphql/eda/graphql/OrderGraphQLApi.class
+ccom/company/profile/graphql/eda/model/OrderCreatedEvent.class
+ccom/company/profile/graphql/eda/routes/OrderEventRoute.class
+ccom/company/profile/graphql/eda/store/OrderStore.class
